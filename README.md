@@ -9,10 +9,7 @@ I'm a Frontend Engineer passionate about knowledge sharing, problem-solving with
 
 - 😊 Pronouns: She/Her
 - 😎 Something about me: I love reading.
-- 💡 Fun fact: I'm an alumnus of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs.
-- 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Junior level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/1n5FhO_yV977NnnViL2xMUdCMqNyCFGBWU_nCM1uEEMY/edit?usp=drive_link) and contact me by emailing faitholuwibe@gmail.com.
 
 ---
